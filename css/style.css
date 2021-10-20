@@ -221,4 +221,84 @@ div p.text-h2 {
 
 div a i {
     margin-right: 10px;
+    color: white;
 }
+
+footer {
+    background-color: black;
+}
+
+.foot-cont {
+    width: 80%;
+    margin: auto;
+    padding: 70px 0 ;
+    color: white;
+    border-bottom:1px solid cornflowerblue;
+}
+
+.float-li {
+    float: left;
+    list-style-type: none;
+    width: 17%;
+}
+
+.width-big{
+    margin-right: 80px;
+    padding-right: 50px;
+    width: 25%;
+    float: left;
+    list-style-type: none ;
+}
+
+.font-big {
+    font-size: 1.5em;
+}
+
+.img-small {
+    width: 30px;
+    vertical-align: middle;
+}
+
+.img-height {
+    margin: 20px 0;
+}
+
+ul li {
+    list-style-type: none;
+}
+
+h3 {
+    color: cornflowerblue;
+}
+
+.float-li ul li {
+    line-height: 30px;
+}
+
+.float-li ul li a {
+    text-decoration: none;
+    color: white; 
+}
+
+.logo-footer {
+    width: 80%;
+    margin: auto;
+    padding: 30px 0 ;
+}
+
+.register {
+    float: right;
+    background-color: cornflowerblue;
+    padding: 10px 15px;
+    border-radius: 20px;
+}
+
+.register a {
+    color: white;
+    text-decoration: none;
+}
+
+.register a:hover {
+    color: blue;
+}
+

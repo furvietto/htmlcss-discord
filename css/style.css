@@ -120,7 +120,8 @@ a.btn.dark{
 
 a.btn.dark:hover,
 a.btn.dark:active,
-a.btn.dark:focus {
+a.btn.dark:focus,
+.register a:hover {
     color: #265ee8;
 }
 
@@ -297,8 +298,3 @@ h3 {
     color: white;
     text-decoration: none;
 }
-
-.register a:hover {
-    color: blue;
-}
-

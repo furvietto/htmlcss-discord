@@ -178,3 +178,20 @@ a.btn.dark:focus {
     margin-left: 70px;
 }
 
+.text-center {
+    text-align: center;
+}
+
+.vh {
+    height: 100vh;
+}
+
+.font-size {
+    font-size: 2.5em;
+}
+
+.text-h2 {
+    padding: 30px 0; 
+    width:85%;
+    margin: auto;
+}
